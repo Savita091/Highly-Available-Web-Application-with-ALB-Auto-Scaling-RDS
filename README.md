@@ -241,11 +241,13 @@ The `employees` table was successfully queried and returned the inserted record.
 
 ### VPC & Networking
 
+
 <img width="1366" height="768" alt="VPC 0 0" src="https://github.com/user-attachments/assets/ed59d9ef-9ad6-49aa-ac82-0bfe406f3942" />
 *<img width="1366" height="768" alt="VPC 0 1" src="https://github.com/user-attachments/assets/742c8178-30b0-4f5a-a474-4ee13dbcb76c" />
 
 
 ### Application Load Balancer
+
 
 <img width="1366" height="768" alt="ALB 0 0" src="https://github.com/user-attachments/assets/17960b5f-8090-4250-ad73-71308eb6daa4" />
 *<img width="1366" height="768" alt="ALB 0 1" src="https://github.com/user-attachments/assets/e3f538f1-8933-48aa-948b-ee4b7cd61cca" />
@@ -253,11 +255,13 @@ The `employees` table was successfully queried and returned the inserted record.
 
 ### Target Group
 
+
 *<img width="1366" height="768" alt="Target Group" src="https://github.com/user-attachments/assets/10f8500b-0d96-4a4f-bbee-95b1cbcd5811" />
 <img width="1366" height="768" alt="Target group healthy" src="https://github.com/user-attachments/assets/f08994d7-726f-4cd0-bf33-e5782be85d47" />
 
 
 ### Auto Scaling
+
 
 *<img width="1366" height="768" alt="ASG 0 0" src="https://github.com/user-attachments/assets/aebc78fe-fe76-4258-a124-c62ca2b3d985" />
 <img width="1366" height="768" alt="ASG 0 1" src="https://github.com/user-attachments/assets/7ef77f02-6270-41a0-afe8-3f299e5cc861" />
@@ -269,11 +273,13 @@ The `employees` table was successfully queried and returned the inserted record.
 
 ### Web Application
 
+
 *<img width="1366" height="768" alt="Apache Running EC2 1" src="https://github.com/user-attachments/assets/7130b61a-3fd1-4c63-a7b5-fae038d6d321" />
 <img width="1366" height="768" alt="Apache Running EC2 2" src="https://github.com/user-attachments/assets/bbb1ed0a-3565-4407-8b7b-7c6050dd75e9" />
 
 
 ### RDS
+
 
 *<img width="1366" height="768" alt="RDS Database overview" src="https://github.com/user-attachments/assets/476d05b0-d85f-4626-88b6-a3cba10212bc" />
 <img width="1366" height="768" alt="RDS Database Connectivity" src="https://github.com/user-attachments/assets/7b361a5e-2b74-4c03-925c-a888aa9c6669" />
@@ -282,6 +288,7 @@ The `employees` table was successfully queried and returned the inserted record.
 
 
 ### Database Test
+
 
 <img width="1366" height="768" alt="SSM terminal output" src="https://github.com/user-attachments/assets/d46c5b93-f27c-4938-8377-6b7588c5b17f" />
 
