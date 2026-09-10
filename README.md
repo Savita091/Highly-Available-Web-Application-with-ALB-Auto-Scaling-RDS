@@ -292,6 +292,11 @@ The `employees` table was successfully queried and returned the inserted record.
 
 <img width="1366" height="768" alt="SSM terminal output" src="https://github.com/user-attachments/assets/d46c5b93-f27c-4938-8377-6b7588c5b17f" />
 
+### Database Snapshot
+
+
+<img width="1366" height="768" alt="Database Snapshot" src="https://github.com/user-attachments/assets/d35f7694-b6fa-41d3-9bc3-c5648bce445a" />
+
 
 ## 🔑 Key Learnings
 
