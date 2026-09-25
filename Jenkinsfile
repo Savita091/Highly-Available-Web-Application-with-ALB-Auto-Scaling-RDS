@@ -7,7 +7,7 @@ pipeline
     {
       steps
       {
-        echo ('Hello from jenkins' pipeline')
+        echo ('Hello from jenkins pipeline!')
       }
     }
     stage ('Build')
